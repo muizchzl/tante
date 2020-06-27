@@ -6,8 +6,6 @@
     "moto": 0,
     "car_total": 932,
     "moto_total": 0,
-    "chargeTime": "",
-    "chargeFee": "",
     "lat": "22.991501",
     "lng": "120.195621"
   },
@@ -66,8 +64,6 @@
     "car_total": 158,
     "moto_total": 0,
     "motoDis_total": 0,
-    "chargeTime": "",
-    "chargeFee": "",
     "lat": "22.982593",
     "lng": "120.221534"
   },
@@ -90,8 +86,6 @@
     "moto": 0,
     "car_total": 200,
     "moto_total": 0,
-    "chargeTime": "",
-    "chargeFee": "",
     "lat": "23.309726",
     "lng": "120.316173"
   },
@@ -102,8 +96,6 @@
     "moto": 0,
     "car_total": 28,
     "moto_total": 0,
-    "chargeTime": "",
-    "chargeFee": "",
     "lat": "23.307886",
     "lng": "120.317136"
   },
@@ -126,8 +118,6 @@
     "moto": 0,
     "car_total": 352,
     "moto_total": 0,
-    "chargeTime": "",
-    "chargeFee": "",
     "lat": "22.976591",
     "lng": "120.219439"
   }
